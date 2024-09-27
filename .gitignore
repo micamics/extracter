@@ -25,8 +25,8 @@ go.work.sum
 .env
 
 # test files
-.xlsx
-.csv
+*.xlsx
+*.csv
 
 .DS_Store
 vendor
